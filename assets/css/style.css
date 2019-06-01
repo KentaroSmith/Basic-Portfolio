@@ -1,8 +1,19 @@
-#nav{
+header{
+    display: inline;
+}
+
+body{
+    max-width: 960px;
+    align-content: center;
+}
+li{
     float: right;
+    width: 100px;
+    border-style: solid;
+    border-block-color: #30948d;
 }
 h1{
-    float: left;
+    display: inline-block;
 }
 img{
     float: left;

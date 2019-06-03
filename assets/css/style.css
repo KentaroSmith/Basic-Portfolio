@@ -10,7 +10,14 @@ li{
     float: right;
     width: 100px;
     border-style: solid;
-    border-block-color: #30948d;
+    border-color: #30948d;
+    background-color: #30948d;
+    margin: 2px;
+    padding:3px;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
 }
 h1{
     display: inline-block;

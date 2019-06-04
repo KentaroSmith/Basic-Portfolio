@@ -1,26 +1,36 @@
 header{
+    width:960;
+}
+.title{
+    border-style: solid;
+    border-color: #30948d;
+    background-color: #30948d;
     display: inline;
 }
-
+article{
+    max-width: 960px;
+    align-content: center;
+}
 body{
     max-width: 960px;
     align-content: center;
 }
 li{
-    float: right;
-    width: 100px;
-    border-style: solid;
-    border-color: #30948d;
-    background-color: #30948d;
-    margin: 2px;
-    padding:3px;
-    text-align: center;
+    display: inline;
+}
+li a{
+    padding: 14px 16px;
 }
 ul{
+    margin: 0px;
+    padding:0px;
     list-style-type: none;
+    overflow: hidden;
+    float: right;
 }
-h1{
-    display: inline-block;
+
+hr{
+    clear: both;
 }
 img{
     float: left;

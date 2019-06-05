@@ -59,4 +59,13 @@ p{
 hr{
     clear: both;
 }
+a:hover{
+    color: #4aaaa5;
+}
+a:visited{
+    color: #544aaa;
+}
+a:active{
+    color: #80aa4a;
+}
 

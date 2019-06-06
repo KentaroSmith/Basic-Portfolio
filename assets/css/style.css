@@ -34,6 +34,9 @@ article{
     border-color:#dddddd;
     padding: 10px;
 }
+article>img{
+    float: left;
+}
 body{
     align-content: center;
 }
@@ -78,3 +81,4 @@ footer{
     border-width: 5px;
     border-color:#4aaaa5;
 }
+

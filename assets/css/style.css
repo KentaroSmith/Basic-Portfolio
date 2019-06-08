@@ -40,6 +40,7 @@ article>img{
 }
 body{
     align-content: center;
+    background-image: url("../images/stripes-light.png");
 }
 li{
     display: inline;
